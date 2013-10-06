@@ -13,4 +13,4 @@ popular board game.
 
 Dependencies : Stdlib.jar , algs4.jar : two specific libraries that we have to use for basic io etc stuff.
 (i think i already have those commited in the older repositories , if not , they can be found here : http://algs4.cs.princeton.edu/code/
-along with a ton of other real good stuff as well ).
+along with a ton of other real good stuff ).
