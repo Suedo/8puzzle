@@ -1,4 +1,4 @@
-Example : Board 
+Example : Let's take a Random board as below :
 
 3 // signifies the size of each side of the board
 7 3 4
