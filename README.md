@@ -2,7 +2,7 @@
 =======
 
 Finds the best combination of turns to win at 8-puzzle , a sliding cell board game.
-Try the game here : http://mypuzzle.org/sliding
+Try the game here : http://mypuzzle.org/sliding<br/>
 This was an assignment from a coursera algorithm course that i'm taking. 
 One reason why the api is like the way it is is because we have to follow an exact instruction set on what all 
 resources we can use , and exactly how the api should be. (Any deviation leads to loss of credit).
